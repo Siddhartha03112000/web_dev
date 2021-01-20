@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>hello</title>
+</head>
 <body>
     <strong>hello.</strong>
     <h1>hello guys</h1>
@@ -9,6 +10,4 @@
     <br><i>hello</i>
     <br><h1><i><u>hello</u></i></h1>
 </body>
-
-</head>
 </html>
